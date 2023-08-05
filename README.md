@@ -11,3 +11,5 @@ Usefull likns:
 https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
 
 https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+
+https://www.youtube.com/watch?v=oGkxJQ9SB8M
